@@ -1,0 +1,173 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+
+}
+body{
+background:#1c2831;
+color: rgb(176, 236, 208);
+font-family: sans-serif;
+font-size: 100%;
+width: 100%;
+}
+.nav-bar-full{
+  display: flex;
+}
+
+.nav-bar{
+  display: flex;
+  flex-direction: row;
+  margin-left:1200px ;
+  gap: 30px;
+  justify-content: flex-end;
+  margin-right: 1.5rem;
+}
+
+h1{
+  font-size: 800%;
+  margin-left: 4.6rem;
+  margin-bottom: 0px;
+ 
+}
+.nav-bar:hover{
+  cursor: pointer;
+  color:#B8FA9E ;
+}
+
+.photo{
+  width:1200px;
+  height: 350px;
+  background-image: url(PhotoConcepts-HERO.webp);
+  margin: 0px 50px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom:50px;
+  margin-top: 0px;
+  padding: 0px;
+}
+.par{
+  font-size: 65px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: white;
+}
+.box1{
+  width: 40%   ;
+  margin-left: 10%;
+  margin-top: 10%;
+  font-size: 170%;
+  padding-top: 7%;
+}
+.picture1{
+  float: right;
+  width: 30%;
+ margin-right: 15%;
+ display: flex;
+ margin-top: 0%;
+align-items: flex-start;
+height: 200%;
+max-width: 30%;
+width: 500px;
+height: auto;
+}
+.goal-text{
+  
+ 
+  margin-top:5%;
+  font-size: 170%;
+}
+.photo2{
+  float: left;
+  width: 30%;
+ margin-left: 16%;
+ display: flex;
+ margin-top: 3%;
+align-items: flex-start;
+height: 200%;
+max-width: 30%;
+width: 300px;
+height: auto;
+}
+.container{
+  
+  margin-right: 6%;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 20px 0;
+ 
+ 
+}
+.More{
+  margin-left: 6px;
+  font-size: 30px;
+}
+.More:hover{
+cursor: pointer;
+color: #B8FA9E;
+
+}
+.number{
+  margin-right: 5px;
+  
+}
+.info{
+  margin-bottom: 10%;
+}
+.you{
+  font-size: 100%;
+}
+.i{
+  justify-content: flex-end;
+  align-content: flex-end;
+  margin-top: 600px;
+  width:55rem ;
+font-size: 5rem;
+margin-bottom:5rem ;
+margin-left: 3rem;
+}
+.contact-info{
+width: 30%;
+float: left;
+}
+.inputn{
+  width: 21rem;
+  height: 3rem;
+  border-radius: 0.6rem;
+  margin-right: 1rem;
+  padding-left: 5px;
+  font-size: 1rem;
+  color: #000;
+  background-color: #d4fcf2bd;
+}
+.starr{
+  color: red;
+  width: 0.5rem;
+}
+small{
+  font-size:120%;
+
+}
+.firsts{
+  margin-right: 45%;
+}
+.email{
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-weight: 900;
+  margin-left: 2px;
+}
+.emaili{
+  width: 45rem;
+  height: 3rem;
+  border-radius: 0.6rem;
+  margin-right: 1rem;
+  padding-left: 5px;
+  font-size: 1rem;
+  color: #000;
+  background-color: #d4fcf2bd;
+
+}
+
